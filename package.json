@@ -1,6 +1,6 @@
 {
     "name": "obsidian-livesync",
-    "version": "0.25.79",
+    "version": "0.25.80",
     "description": "Reflect your vault changes to some other devices immediately. Please make sure to disable other synchronize solutions to avoid content corruption or duplication.",
     "main": "main.js",
     "type": "module",
@@ -105,6 +105,7 @@
         "@vitest/browser": "^4.1.8",
         "@vitest/browser-playwright": "^4.1.8",
         "@vitest/coverage-v8": "^4.1.8",
+        "@vrtmrz/obsidian-test-session": "0.1.0",
         "dotenv-cli": "^11.0.0",
         "esbuild": "0.28.1",
         "esbuild-plugin-inline-worker": "^0.1.1",
